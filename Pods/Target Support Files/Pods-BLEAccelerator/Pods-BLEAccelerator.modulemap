@@ -1,0 +1,6 @@
+framework module Pods_BLEAccelerator {
+  umbrella header "Pods-BLEAccelerator-umbrella.h"
+
+  export *
+  module * { export * }
+}
